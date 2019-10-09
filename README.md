@@ -1,1 +1,1 @@
-# svg
+stroke : color change for line;
