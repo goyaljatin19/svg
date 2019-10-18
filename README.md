@@ -120,3 +120,4 @@ public class DocumentationController implements SwaggerResourcesProvider {
 
 }
 --------------------------------------------------------------------------------------
+https://piotrminkowski.wordpress.com/2017/04/14/microservices-api-documentation-with-swagger2/
